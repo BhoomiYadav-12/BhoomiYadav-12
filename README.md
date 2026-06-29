@@ -1,6 +1,6 @@
 # Hi 👋 I’m Bhoomi Yadav
 
-🎓 4th Semester **Computer Science Engineering (AI & ML)** student  
+🎓 5th Semester **Computer Science Engineering (AI & ML)** student  
 💻 Interested in **Python, Web Development, and Machine Learning**  
 📈 Focused on building strong fundamentals and learning through projects
 
